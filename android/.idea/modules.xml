@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/140889536/connectivity.iml" filepath="$PROJECT_DIR$/.idea/modules/140889536/connectivity.iml" group="android/connectivity" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/363858320/libphonenumber.iml" filepath="$PROJECT_DIR$/.idea/modules/363858320/libphonenumber.iml" group="android/libphonenumber" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/32973250/permission_handler.iml" filepath="$PROJECT_DIR$/.idea/modules/32973250/permission_handler.iml" group="android/permission_handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1330616038/sms_autofill.iml" filepath="$PROJECT_DIR$/.idea/modules/-1330616038/sms_autofill.iml" group="android/sms_autofill" />
+    </modules>
+  </component>
+</project>

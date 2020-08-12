@@ -2,6 +2,7 @@ import 'package:custom_navigator/custom_navigation.dart';
 import 'package:flutter/material.dart';
 import 'package:gym/blocs/base_bloc.dart';
 import 'package:gym/providers/base_bloc_provider.dart';
+import 'package:gym/screens/slot_screen.dart';
 import 'package:gym/utils/constants.dart';
 
 class BaseScreen extends StatelessWidget {
@@ -147,7 +148,7 @@ class BaseScreenDetails extends StatelessWidget {
             // } else {
             //   return ThanksScreen();
             // }
-            return Center(child: Text('Slots'));
+            return SlotScreen(); // Slot screen
           }),
       StreamBuilder(
           stream: _baseBloc.isProfile,
