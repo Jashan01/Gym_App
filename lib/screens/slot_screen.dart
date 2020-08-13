@@ -16,14 +16,26 @@ class _SlotScreenState extends State<SlotScreen> {
     return Scaffold(
       backgroundColor: Colors.blueGrey[900],
       appBar: AppBar(
-        elevation: 0,
-        title: Text(
-          'Slots',
-          style: TextStyle(
-            fontSize: 30,
-            color: Colors.white,
+        bottom: PreferredSize(
+          preferredSize: Size(MediaQuery.of(context).size.width,40),
+          child: Padding(
+            padding: const EdgeInsets.fromLTRB(15, 5, 0, 10),
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.start,
+              children: [
+                Text(
+                  'Slots',
+                  style: TextStyle(
+                    fontSize: 30,
+                    fontWeight: FontWeight.bold,
+                    color: Colors.white,
+                  ),
+                ),
+              ],
+            ),
           ),
         ),
+        elevation: 0,
         actions: [
           FlatButton(
             child: Icon(
@@ -32,7 +44,7 @@ class _SlotScreenState extends State<SlotScreen> {
               size: 30,
             ),
             onPressed: () => AddSlotScreen.show(context),
-          )
+          ),
         ],
       ),
       body: _buildContent(context),

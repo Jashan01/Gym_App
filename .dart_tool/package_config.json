@@ -164,6 +164,12 @@
       "languageVersion": "2.0"
     },
     {
+      "name": "infinite_listview",
+      "rootUri": "file:///Users/jashanjotsingh/flutter/.pub-cache/hosted/pub.dartlang.org/infinite_listview-1.0.1+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
       "name": "intl_phone_number_input",
       "rootUri": "file:///Users/jashanjotsingh/flutter/.pub-cache/hosted/pub.dartlang.org/intl_phone_number_input-0.2.1",
       "packageUri": "lib/",
@@ -190,6 +196,12 @@
     {
       "name": "nested",
       "rootUri": "file:///Users/jashanjotsingh/flutter/.pub-cache/hosted/pub.dartlang.org/nested-0.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "numberpicker",
+      "rootUri": "file:///Users/jashanjotsingh/flutter/.pub-cache/hosted/pub.dartlang.org/numberpicker-1.2.1",
       "packageUri": "lib/",
       "languageVersion": "2.2"
     },
@@ -332,7 +344,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2020-08-11T14:02:49.145147Z",
+  "generated": "2020-08-13T12:56:18.319540Z",
   "generator": "pub",
   "generatorVersion": "2.9.0"
 }

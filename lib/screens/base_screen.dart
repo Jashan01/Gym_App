@@ -2,6 +2,7 @@ import 'package:custom_navigator/custom_navigation.dart';
 import 'package:flutter/material.dart';
 import 'package:gym/blocs/base_bloc.dart';
 import 'package:gym/providers/base_bloc_provider.dart';
+import 'package:gym/screens/members_screen.dart';
 import 'package:gym/screens/slot_screen.dart';
 import 'package:gym/utils/constants.dart';
 
@@ -59,12 +60,12 @@ class BaseScreenBase extends StatelessWidget {
                     BottomNavigationBarItem(
                       icon: Padding(
                         padding: const EdgeInsets.only(right: 20.0),
-                        child: Icon(Icons.assignment),
+                        child: Icon(Icons.people),
                       ),
                       title: Padding(
                         padding: const EdgeInsets.only(right: 20.0),
                         child: Text(
-                          'Bookings',
+                          'Members',
                           style: TextStyle(
                             fontFamily: "SegoeRegular",
                             fontSize: 12.0,
@@ -138,7 +139,7 @@ class BaseScreenDetails extends StatelessWidget {
             // } else {
             //   return ThanksScreen();
             // }
-            return Center(child: Text('Bookings'));
+            return MembersScreen();
           }),
       StreamBuilder(
           stream: _baseBloc.isProfile,
