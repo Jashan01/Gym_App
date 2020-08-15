@@ -2,6 +2,7 @@ import 'package:custom_navigator/custom_navigation.dart';
 import 'package:flutter/material.dart';
 import 'package:gym/blocs/base_bloc.dart';
 import 'package:gym/providers/base_bloc_provider.dart';
+import 'package:gym/screens/home_screen.dart';
 import 'package:gym/screens/members_screen.dart';
 import 'package:gym/screens/slot_screen.dart';
 import 'package:gym/utils/constants.dart';
@@ -125,11 +126,7 @@ class BaseScreenDetails extends StatelessWidget {
             // } else {
             //   return ThanksScreen();
             // }
-            return Center(
-                child: Text(
-              'Home',
-              style: TextStyle(color: Colors.black),
-            ));
+            return HomeScreen();
           }),
       StreamBuilder(
           stream: _baseBloc.isProfile,
