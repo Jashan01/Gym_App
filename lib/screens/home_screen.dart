@@ -55,7 +55,9 @@ class _HomeScreenState extends State<HomeScreen> {
           Expanded(
             flex: 1,
             child: GestureDetector(
-              onTap: () => AllBookingsScreen.show(context, slotsStream: slotsStream()),
+              onTap: () => AllBookingsScreen.show(context,
+                  slotsStream: slotsStream(),
+                  identifier: 'owner'), //pass identifier owner or member
               child: Container(
                 color: Colors.black54,
                 child: Row(
@@ -63,11 +65,13 @@ class _HomeScreenState extends State<HomeScreen> {
                   children: [
                     Padding(
                       padding: const EdgeInsets.all(8.0),
-                      child: Text('See All',
-                      style: TextStyle(
-                        color: Color(Constants.BASE_LIGHT_COLOR),
-                        fontSize: 15,
-                      ),),
+                      child: Text(
+                        'See All',
+                        style: TextStyle(
+                          color: Color(Constants.BASE_LIGHT_COLOR),
+                          fontSize: 18,
+                        ),
+                      ),
                     ),
                   ],
                 ),
@@ -76,8 +80,7 @@ class _HomeScreenState extends State<HomeScreen> {
           ),
           Expanded(
             flex: 9,
-            child: Container(
-                child: _buildContent(context)),
+            child: Container(child: _buildContent(context)),
           ),
         ],
       ),
@@ -107,7 +110,7 @@ class _HomeScreenState extends State<HomeScreen> {
             return EmptyContent();
           }
         } else if (snapshot.hasError) {
-          return Center(child: Text('some error occured'));
+          return Center(child: Text('some error occurred'));
         } else {
           return Center(
             child: CircularProgressIndicator(),
@@ -124,42 +127,49 @@ class _HomeScreenState extends State<HomeScreen> {
         endTime: '3:00 pm',
         maxCustomersAllowed: 20,
         bookingsDone: 17,
+        date: '18/08/2020',
       ),
       SlotModel(
         startTime: '3:00 pm',
         endTime: '4:00 pm',
         maxCustomersAllowed: 15,
         bookingsDone: 6,
+        date: '18/08/2020',
       ),
       SlotModel(
         startTime: '4:00 pm',
         endTime: '5:00 pm',
         maxCustomersAllowed: 16,
         bookingsDone: 4,
+        date: '18/08/2020',
       ),
       SlotModel(
         startTime: '5:00 pm',
         endTime: '6:00 pm',
         maxCustomersAllowed: 16,
         bookingsDone: 5,
+        date: '19/08/2020',
       ),
       SlotModel(
-        startTime: '2:00 pm',
-        endTime: '3:00 pm',
+        startTime: '7:00 pm',
+        endTime: '8:00 pm',
         maxCustomersAllowed: 20,
         bookingsDone: 0,
+        date: '19/08/2020',
       ),
       SlotModel(
-        startTime: '2:00 pm',
-        endTime: '3:00 pm',
+        startTime: '10:00 am',
+        endTime: '11:00 am',
         maxCustomersAllowed: 20,
         bookingsDone: 10,
+        date: '21/08/2020',
       ),
       SlotModel(
-        startTime: '2:00 pm',
-        endTime: '3:00 pm',
+        startTime: '11:00 am',
+        endTime: '12:00 pm',
         maxCustomersAllowed: 20,
         bookingsDone: 15,
+        date: '21/08/2020',
       ),
     ]);
   }

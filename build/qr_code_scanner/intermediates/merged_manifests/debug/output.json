@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "applicationId": "net.touchcapture.qr.flutterqr",
+  "variantType": "LIBRARY",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": -1,
+        "outputFile": "qr_code_scanner-debug.aar",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "../../library_manifest/debug/AndroidManifest.xml",
+      "properties": {
+        "packageId": "net.touchcapture.qr.flutterqr",
+        "split": ""
+      }
+    }
+  ]
+}

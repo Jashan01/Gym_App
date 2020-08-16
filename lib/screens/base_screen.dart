@@ -6,6 +6,7 @@ import 'package:gym/screens/home_screen.dart';
 import 'package:gym/screens/members_screen.dart';
 import 'package:gym/screens/slot_screen.dart';
 import 'package:gym/utils/constants.dart';
+import 'member_screens/member_home_screen.dart';
 
 class BaseScreen extends StatelessWidget {
   @override
@@ -126,7 +127,8 @@ class BaseScreenDetails extends StatelessWidget {
             // } else {
             //   return ThanksScreen();
             // }
-            return HomeScreen();
+            return MemberHomeScreen();
+            // return HomeScreen() for gym owner
           }),
       StreamBuilder(
           stream: _baseBloc.isProfile,

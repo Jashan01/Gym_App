@@ -4,6 +4,23 @@
             "outputFile": "/Users/jashanjotsingh/AndroidStudioProjects/flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml",
             "map": [
                 {
+                    "source": "/Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/4366fc1e9f2a9d506faf9be613d77836/jetified-zxing-android-embedded-4.0.2/res/values-it/values-it.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,114,161,334",
+                        "endColumns": "58,46,172,128",
+                        "endOffsets": "109,156,329,458"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2917,2976,3023,3196",
+                        "endColumns": "58,46,172,128",
+                        "endOffsets": "2971,3018,3191,3320"
+                    }
+                },
+                {
                     "source": "/Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/aa21cad4010bc6254462e12f4389d22a/jetified-play-services-basement-17.0.0/res/values-it/values.xml",
                     "from": {
                         "startLines": "4",

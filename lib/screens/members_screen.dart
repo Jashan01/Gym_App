@@ -1,13 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:gym/models/member_model.dart';
-import 'package:gym/models/slot_model.dart';
 import 'package:gym/screens/add_member_screen.dart';
-import 'package:gym/screens/add_slot_screen.dart';
 import 'package:gym/screens/show_member_screen.dart';
-import 'package:gym/screens/show_slot_screen.dart';
 import 'package:gym/utils/list_items_builder.dart';
 import 'package:gym/widgets/member_list_tile.dart';
-import 'package:gym/widgets/slot_list_tile.dart';
 
 class MembersScreen extends StatefulWidget {
   @override

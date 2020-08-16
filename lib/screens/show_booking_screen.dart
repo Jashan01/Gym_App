@@ -45,7 +45,7 @@ class ShowBookingScreen extends StatelessWidget {
                     color: Colors.white,
                     fontSize: 20,
                   ),),
-                  Text('Placeholder',style:
+                  Text(slot.date,style:
                   TextStyle(
                     color: Colors.grey,
                     fontSize: 20,

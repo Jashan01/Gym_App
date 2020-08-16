@@ -110,7 +110,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		KXBH1suqGdU4Uq41UTEAqrkKaYw=
+		G3WgHBSslXFnGB9zR1QSsMbc3XE=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		RonqY82aFcy/kdWTHr6Nb9z5I+Q=
+		u5YPD4DuwBTTf12sz8tbEOYb9hk=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES</key>
 		<data>
-		LmXuDB9IKedqRhJPXEaF5IUyPaE=
+		Y5Zh112o3yPjOGHsxxLTEhFvzX0=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.ttf</key>
 		<data>
@@ -142,7 +142,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		3Z0x9VKMUrbuzGiVDYCYS978NFk=
+		D/StXuQLvJ4kL1eux4yJw8Fp2jk=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -1196,13 +1196,25 @@
 		<data>
 		7LLymJyVsVOgMdYqN+/9Bwjbkwc=
 		</data>
+		<key>Frameworks/MTBBarcodeScanner.framework/Info.plist</key>
+		<data>
+		mOjTK6yAjVsYGB4GDU3gcI7Ius4=
+		</data>
+		<key>Frameworks/MTBBarcodeScanner.framework/MTBBarcodeScanner</key>
+		<data>
+		5k6l5gJEcB8NwoCXlcWqWdUlRXA=
+		</data>
+		<key>Frameworks/MTBBarcodeScanner.framework/_CodeSignature/CodeResources</key>
+		<data>
+		LSyLr1R43hn2+nVTMBzYFD4fV60=
+		</data>
 		<key>Frameworks/Reachability.framework/Info.plist</key>
 		<data>
 		PvBszAApIaJ7sRsOXWAt4sTx5No=
 		</data>
 		<key>Frameworks/Reachability.framework/Reachability</key>
 		<data>
-		3pMxcp79hO5ievZS+XmglSt6du4=
+		4MLjtrV3hCymOz/GelOatuLAPlY=
 		</data>
 		<key>Frameworks/Reachability.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -1218,7 +1230,7 @@
 		</data>
 		<key>Frameworks/connectivity.framework/connectivity</key>
 		<data>
-		1184spDG1p5eXOyrGV1DVoFR3m0=
+		xzQY/F5hw0EAdRoXYwBLpmHWI4o=
 		</data>
 		<key>Frameworks/libPhoneNumber_iOS.framework/Info.plist</key>
 		<data>
@@ -1230,7 +1242,7 @@
 		</data>
 		<key>Frameworks/libPhoneNumber_iOS.framework/libPhoneNumber_iOS</key>
 		<data>
-		TzltknhiuNtaBPnfzQaYto+XuA4=
+		APZRBWlxkGwp08BTZD2YJ/SCta4=
 		</data>
 		<key>Frameworks/libphonenumber.framework/Info.plist</key>
 		<data>
@@ -1242,7 +1254,7 @@
 		</data>
 		<key>Frameworks/libphonenumber.framework/libphonenumber</key>
 		<data>
-		CKcckcug8SsgQZgrynPrmqRHuec=
+		rO6CGJlWPJ/pd2If2kp0cetS540=
 		</data>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<data>
@@ -1256,6 +1268,10 @@
 		<data>
 		JoDjsNQXE3z2hogOouALtjw8m/g=
 		</data>
+		<key>Frameworks/libswiftCoreImage.dylib</key>
+		<data>
+		dccNAYDUBxOzns3c+W4XRSmf1Ps=
+		</data>
 		<key>Frameworks/libswiftDarwin.dylib</key>
 		<data>
 		XJGVexKAsC220QzBQHwL6VS/whc=
@@ -1268,9 +1284,37 @@
 		<data>
 		WclOTQyDfPDOGEjZboBz+yfxGVQ=
 		</data>
+		<key>Frameworks/libswiftMetal.dylib</key>
+		<data>
+		q6qpoqLxtRrru4zloX0b0xHIJVw=
+		</data>
 		<key>Frameworks/libswiftObjectiveC.dylib</key>
 		<data>
 		W4v+YlroD8+v27M4zKa/3r9eqdA=
+		</data>
+		<key>Frameworks/libswiftQuartzCore.dylib</key>
+		<data>
+		OzOL7prTxnOJwhTRps72jdhagI4=
+		</data>
+		<key>Frameworks/libswiftUIKit.dylib</key>
+		<data>
+		G10/WJel9vPNJjANFC1WEM1Jno0=
+		</data>
+		<key>Frameworks/libswiftos.dylib</key>
+		<data>
+		oMpvzHAVfevcqm0jDkhUpqLzhXg=
+		</data>
+		<key>Frameworks/qr_code_scanner.framework/Info.plist</key>
+		<data>
+		/gHmI2T7wE+FLmZrTcvYDvW5iss=
+		</data>
+		<key>Frameworks/qr_code_scanner.framework/_CodeSignature/CodeResources</key>
+		<data>
+		OokPwaP7nvvKHPuQbszUIa/kfjg=
+		</data>
+		<key>Frameworks/qr_code_scanner.framework/qr_code_scanner</key>
+		<data>
+		EdekXGQ+aSTBP4SAI/seqVOU9ns=
 		</data>
 		<key>Frameworks/sms_autofill.framework/Info.plist</key>
 		<data>
@@ -1282,11 +1326,11 @@
 		</data>
 		<key>Frameworks/sms_autofill.framework/sms_autofill</key>
 		<data>
-		9jPLo+GI9pnvLmN2jH6Hyxg8SPs=
+		Ex2a4FL43tg3puMmsbiBkoIdPNE=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		vYs2UqontcrK5zizPtXIbZF7gbw=
+		uoe7ruj11uBudBw62yHETXWdr0s=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -1585,11 +1629,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KXBH1suqGdU4Uq41UTEAqrkKaYw=
+			G3WgHBSslXFnGB9zR1QSsMbc3XE=
 			</data>
 			<key>hash2</key>
 			<data>
-			NH95j7KVYMKuhyZkYu+qTK+TNlojywHxloDC+uCcftI=
+			ZL1RGotxOS39EH6FfC2AA529OsvQGXQupHHukzwKPRk=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -1607,11 +1651,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RonqY82aFcy/kdWTHr6Nb9z5I+Q=
+			u5YPD4DuwBTTf12sz8tbEOYb9hk=
 			</data>
 			<key>hash2</key>
 			<data>
-			5NWwwrh5TrSPhQ/UBtq6GULPxrWvGoT/2Hr/yUEDPkY=
+			AgA2wUCT4d4A05oKESaNt+vP1MHhFaMWixi/2QcDza0=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
@@ -1640,11 +1684,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LmXuDB9IKedqRhJPXEaF5IUyPaE=
+			Y5Zh112o3yPjOGHsxxLTEhFvzX0=
 			</data>
 			<key>hash2</key>
 			<data>
-			RriLPnb6xwr95yVjIiDruLYjUu6NAgms/2UXOxhJOyQ=
+			ufFQKSaKOc3bQ2iB2cFvUYTvWq7c8vMRMpWCACIzY9M=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.ttf</key>
@@ -1673,11 +1717,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3Z0x9VKMUrbuzGiVDYCYS978NFk=
+			D/StXuQLvJ4kL1eux4yJw8Fp2jk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Qe9ycI1j6ii5FH4VcZeudH9Y2+p+gI+1LeAtsvM4Ops=
+			6497zbKXwYLFMk5e7CAK7Uh+5mAHKM53kobn4bVPsTg=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -4573,6 +4617,39 @@
 			d6igCZs0Amnct0Ty8wttXm7vy5E4/cjjtaT/00mQRnA=
 			</data>
 		</dict>
+		<key>Frameworks/MTBBarcodeScanner.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mOjTK6yAjVsYGB4GDU3gcI7Ius4=
+			</data>
+			<key>hash2</key>
+			<data>
+			vNEGTRBEbw484KOmDFLuBSkH/OoH6lgnSfkd0R6i7ZA=
+			</data>
+		</dict>
+		<key>Frameworks/MTBBarcodeScanner.framework/MTBBarcodeScanner</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5k6l5gJEcB8NwoCXlcWqWdUlRXA=
+			</data>
+			<key>hash2</key>
+			<data>
+			lWU2cNh8AyXpszLIitKlt9ROhLDDk1yEtNsSmaqBDoQ=
+			</data>
+		</dict>
+		<key>Frameworks/MTBBarcodeScanner.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LSyLr1R43hn2+nVTMBzYFD4fV60=
+			</data>
+			<key>hash2</key>
+			<data>
+			XHoxfRh9dwFcz1VLAo8GszIV6dyjYkOJ+60buPNAmZo=
+			</data>
+		</dict>
 		<key>Frameworks/Reachability.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
@@ -4588,11 +4665,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3pMxcp79hO5ievZS+XmglSt6du4=
+			4MLjtrV3hCymOz/GelOatuLAPlY=
 			</data>
 			<key>hash2</key>
 			<data>
-			b+RjvqgfKKfrJN1QpSyeGUU2s/l33wiSNgLq73umyuw=
+			UlUKPp46dOAz5FI0SThBuzMk6a6BpjD6WB2xk54K1is=
 			</data>
 		</dict>
 		<key>Frameworks/Reachability.framework/_CodeSignature/CodeResources</key>
@@ -4632,11 +4709,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1184spDG1p5eXOyrGV1DVoFR3m0=
+			xzQY/F5hw0EAdRoXYwBLpmHWI4o=
 			</data>
 			<key>hash2</key>
 			<data>
-			pb95vjPXc1ugWemRDHfIvEZ9LtAbdksmgdbkInBYydw=
+			Yqgn6tINxVgYdIH2Rwhw+9OxrY6lDwTbT5eyW6nRW/0=
 			</data>
 		</dict>
 		<key>Frameworks/libPhoneNumber_iOS.framework/Info.plist</key>
@@ -4665,11 +4742,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TzltknhiuNtaBPnfzQaYto+XuA4=
+			APZRBWlxkGwp08BTZD2YJ/SCta4=
 			</data>
 			<key>hash2</key>
 			<data>
-			n6jOtje/0cAFEpR+lWFid5bzl/b1mClqX3K4krtsx/8=
+			0d/WQ1yKh6smxuyY6wTRC2gNijI6NcCOGHumjGZt/Xc=
 			</data>
 		</dict>
 		<key>Frameworks/libphonenumber.framework/Info.plist</key>
@@ -4698,11 +4775,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CKcckcug8SsgQZgrynPrmqRHuec=
+			rO6CGJlWPJ/pd2If2kp0cetS540=
 			</data>
 			<key>hash2</key>
 			<data>
-			jdgzZOjAzNHTh7sDSVNn+DeYpWCFKnEhFgsgiBlROVY=
+			Haeb9t5LQMXo8cL8veVvdvc7tLO9mbbEe82WN1BGce0=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftCore.dylib</key>
@@ -4738,6 +4815,17 @@
 			6UmJ5TyRJe3XQ2ANvUh7wapWfH50HDaC5DE8brYBB5U=
 			</data>
 		</dict>
+		<key>Frameworks/libswiftCoreImage.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dccNAYDUBxOzns3c+W4XRSmf1Ps=
+			</data>
+			<key>hash2</key>
+			<data>
+			yd4z45rFP5ibtGizpvCVNJ3AoMhTSP9AnIyUKk/JVGc=
+			</data>
+		</dict>
 		<key>Frameworks/libswiftDarwin.dylib</key>
 		<dict>
 			<key>hash</key>
@@ -4771,6 +4859,17 @@
 			6SyHvvl3dAOzLH6bFEeF41TPcUHS3iYOdFK7I0FEU6M=
 			</data>
 		</dict>
+		<key>Frameworks/libswiftMetal.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			q6qpoqLxtRrru4zloX0b0xHIJVw=
+			</data>
+			<key>hash2</key>
+			<data>
+			Y51e3klbWCwDOKopGL7Z5cieD4LriiLn9IJFA0FvLTs=
+			</data>
+		</dict>
 		<key>Frameworks/libswiftObjectiveC.dylib</key>
 		<dict>
 			<key>hash</key>
@@ -4780,6 +4879,72 @@
 			<key>hash2</key>
 			<data>
 			zLWBGbdbTQk6chVChX0c8CFwhq8ogd9K00QEU5AufEY=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftQuartzCore.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OzOL7prTxnOJwhTRps72jdhagI4=
+			</data>
+			<key>hash2</key>
+			<data>
+			zB0hL5hCB758QPCoQtMOfmCnOq42iXWoTwQdcBU2G1U=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftUIKit.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			G10/WJel9vPNJjANFC1WEM1Jno0=
+			</data>
+			<key>hash2</key>
+			<data>
+			sio8OcXJb8oJVNHzTWsEzXEpJrNWpQmF06EEIQKl26k=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftos.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oMpvzHAVfevcqm0jDkhUpqLzhXg=
+			</data>
+			<key>hash2</key>
+			<data>
+			KnKo8oZ57w7czhNeCWrd3UlEmiHIpnQ5qjzRz88lPuE=
+			</data>
+		</dict>
+		<key>Frameworks/qr_code_scanner.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/gHmI2T7wE+FLmZrTcvYDvW5iss=
+			</data>
+			<key>hash2</key>
+			<data>
+			eol7BhxSNneKn1LK8BhopscJflKnylZG6tpXhQHWZA8=
+			</data>
+		</dict>
+		<key>Frameworks/qr_code_scanner.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OokPwaP7nvvKHPuQbszUIa/kfjg=
+			</data>
+			<key>hash2</key>
+			<data>
+			TQNy1ZTh8oMA+oVYUZJvYRlW6z/XPewhHZjaUgRbGBg=
+			</data>
+		</dict>
+		<key>Frameworks/qr_code_scanner.framework/qr_code_scanner</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EdekXGQ+aSTBP4SAI/seqVOU9ns=
+			</data>
+			<key>hash2</key>
+			<data>
+			+YwZDy3oK/sA4IIZHJ+cX/QYhPcIAiQKWJ3Y+9rQbyU=
 			</data>
 		</dict>
 		<key>Frameworks/sms_autofill.framework/Info.plist</key>
@@ -4808,11 +4973,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9jPLo+GI9pnvLmN2jH6Hyxg8SPs=
+			Ex2a4FL43tg3puMmsbiBkoIdPNE=
 			</data>
 			<key>hash2</key>
 			<data>
-			gkHA5507cQ9C3eFa8XEwJYDtuO5d5q9BPtvuo0rxEOk=
+			LbFDzPjAf5hBIQLW4MWfdMFilFIEAMeJpkI4HwSk9/o=
 			</data>
 		</dict>
 	</dict>
