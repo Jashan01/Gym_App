@@ -40,7 +40,7 @@ class ShowMemberScreen extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(
-                  member.name,
+                  'Name: ${member.name}',
                   style: TextStyle(
                     fontSize: 25,
                     color: Colors.white,
@@ -48,7 +48,7 @@ class ShowMemberScreen extends StatelessWidget {
                 ),
                 SizedBox(height: 8.0),
                 Text(
-                  member.phoneNumber,
+                  'Contact: ${member.phoneNumber}',
                   style: TextStyle(
                     fontSize: 20,
                     color: Colors.white,

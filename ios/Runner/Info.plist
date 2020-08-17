@@ -44,6 +44,8 @@
     <key>io.flutter.embedded_views_preview</key>
     <true/>
     <key>NSCameraUsageDescription</key>
-    <string>QR code Scanning</string>
+    <string>QR code Scanning and Profile Photo</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>For inserting profile photo</string>
 </dict>
 </plist>

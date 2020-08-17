@@ -5,19 +5,22 @@ INJECTED from /Users/jashanjotsingh/AndroidStudioProjects/flutter/android/app/sr
 INJECTED from /Users/jashanjotsingh/AndroidStudioProjects/flutter/android/app/src/main/AndroidManifest.xml:1:1-47:12
 INJECTED from /Users/jashanjotsingh/AndroidStudioProjects/flutter/android/app/src/main/AndroidManifest.xml:1:1-47:12
 MERGED from /Users/jashanjotsingh/AndroidStudioProjects/flutter/android/app/src/main/AndroidManifest.xml:1:1-47:12
-MERGED from [:permission_handler] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/permission_handler/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:sms_autofill] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/sms_autofill/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-22:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:qr_code_scanner] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/qr_code_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:sms_autofill] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/sms_autofill/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:connectivity] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/connectivity/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-10:12
+MERGED from [:permission_handler] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/permission_handler/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:libphonenumber] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/libphonenumber/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:simple_image_crop] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/simple_image_crop/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/9a7956bfe12190121086bd4d5b6cbf92/jetified-play-services-auth-17.0.0/AndroidManifest.xml:17:1-39:12
+MERGED from [com.journeyapps:zxing-android-embedded:4.0.2] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/4366fc1e9f2a9d506faf9be613d77836/jetified-zxing-android-embedded-4.0.2/AndroidManifest.xml:17:1-56:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/b03a1b41f763b9ff16846be90ae1ac13/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/13c5a83e7ca8fd05f84e63c46a38af5c/jetified-play-services-auth-api-phone-17.0.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/e6a2e386d094af2bf87766f81d724a8e/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/19b9f56a15db62ac8064e35056cc3eef/jetified-play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/fb570a90a6b56d36c49ca39c375771b7/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/aa21cad4010bc6254462e12f4389d22a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
-MERGED from [com.journeyapps:zxing-android-embedded:4.0.2] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/4366fc1e9f2a9d506faf9be613d77836/jetified-zxing-android-embedded-4.0.2/AndroidManifest.xml:17:1-56:12
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/b03a1b41f763b9ff16846be90ae1ac13/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/e5251890cd512fd62773fbd951ff5f31/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/b69632954305e12cf4b5b8d740d40d41/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/6b075bc6af254a12c3a2aa3ea7d7e3a4/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -36,6 +39,7 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/jashanjotsingh/.
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/3da7ed7b1b37d185ade8ca03fb0336fa/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/27a036048ceb766173a7dea346f6d5a4/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/0971ef926290521ffb9f1e5a49df94eb/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/bfd709dc50e70f16667448e21e3db26c/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/5cfb18fdf549ad6d346324f58f3a936f/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/883d5063af520ef055094242df00c83f/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/6d4083955b6828b606f171764f1d5e78/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
@@ -63,16 +67,18 @@ INJECTED from /Users/jashanjotsingh/AndroidStudioProjects/flutter/android/app/sr
 		ADDED from /Users/jashanjotsingh/AndroidStudioProjects/flutter/android/app/src/main/AndroidManifest.xml:1:11-69
 application
 ADDED from /Users/jashanjotsingh/AndroidStudioProjects/flutter/android/app/src/main/AndroidManifest.xml:8:5-46:19
+MERGED from [:image_picker] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-20:19
 MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/9a7956bfe12190121086bd4d5b6cbf92/jetified-play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
 MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/9a7956bfe12190121086bd4d5b6cbf92/jetified-play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.journeyapps:zxing-android-embedded:4.0.2] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/4366fc1e9f2a9d506faf9be613d77836/jetified-zxing-android-embedded-4.0.2/AndroidManifest.xml:46:5-54:19
+MERGED from [com.journeyapps:zxing-android-embedded:4.0.2] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/4366fc1e9f2a9d506faf9be613d77836/jetified-zxing-android-embedded-4.0.2/AndroidManifest.xml:46:5-54:19
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/19b9f56a15db62ac8064e35056cc3eef/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/19b9f56a15db62ac8064e35056cc3eef/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/fb570a90a6b56d36c49ca39c375771b7/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/fb570a90a6b56d36c49ca39c375771b7/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/aa21cad4010bc6254462e12f4389d22a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/aa21cad4010bc6254462e12f4389d22a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
-MERGED from [com.journeyapps:zxing-android-embedded:4.0.2] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/4366fc1e9f2a9d506faf9be613d77836/jetified-zxing-android-embedded-4.0.2/AndroidManifest.xml:46:5-54:19
-MERGED from [com.journeyapps:zxing-android-embedded:4.0.2] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/4366fc1e9f2a9d506faf9be613d77836/jetified-zxing-android-embedded-4.0.2/AndroidManifest.xml:46:5-54:19
 MERGED from [androidx.core:core:1.1.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/805e05a71e209033ab91722f2d3217f8/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.1.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/805e05a71e209033ab91722f2d3217f8/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/883d5063af520ef055094242df00c83f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
@@ -131,18 +137,28 @@ uses-sdk
 INJECTED from /Users/jashanjotsingh/AndroidStudioProjects/flutter/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/jashanjotsingh/AndroidStudioProjects/flutter/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/jashanjotsingh/AndroidStudioProjects/flutter/android/app/src/main/AndroidManifest.xml
-MERGED from [:permission_handler] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/permission_handler/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:permission_handler] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/permission_handler/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:sms_autofill] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/sms_autofill/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:sms_autofill] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/sms_autofill/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:qr_code_scanner] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/qr_code_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:qr_code_scanner] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/qr_code_scanner/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sms_autofill] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/sms_autofill/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sms_autofill] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/sms_autofill/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:connectivity] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/connectivity/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:connectivity] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/connectivity/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/permission_handler/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/permission_handler/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:libphonenumber] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/libphonenumber/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:libphonenumber] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/libphonenumber/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:simple_image_crop] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/simple_image_crop/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:simple_image_crop] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/simple_image_crop/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/9a7956bfe12190121086bd4d5b6cbf92/jetified-play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/9a7956bfe12190121086bd4d5b6cbf92/jetified-play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:4.0.2] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/4366fc1e9f2a9d506faf9be613d77836/jetified-zxing-android-embedded-4.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:4.0.2] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/4366fc1e9f2a9d506faf9be613d77836/jetified-zxing-android-embedded-4.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/b03a1b41f763b9ff16846be90ae1ac13/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/b03a1b41f763b9ff16846be90ae1ac13/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/13c5a83e7ca8fd05f84e63c46a38af5c/jetified-play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/13c5a83e7ca8fd05f84e63c46a38af5c/jetified-play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/e6a2e386d094af2bf87766f81d724a8e/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
@@ -153,10 +169,6 @@ MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/jashanjot
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/fb570a90a6b56d36c49ca39c375771b7/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/aa21cad4010bc6254462e12f4389d22a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/aa21cad4010bc6254462e12f4389d22a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.journeyapps:zxing-android-embedded:4.0.2] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/4366fc1e9f2a9d506faf9be613d77836/jetified-zxing-android-embedded-4.0.2/AndroidManifest.xml:20:5-44
-MERGED from [com.journeyapps:zxing-android-embedded:4.0.2] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/4366fc1e9f2a9d506faf9be613d77836/jetified-zxing-android-embedded-4.0.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/b03a1b41f763b9ff16846be90ae1ac13/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/b03a1b41f763b9ff16846be90ae1ac13/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/e5251890cd512fd62773fbd951ff5f31/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/e5251890cd512fd62773fbd951ff5f31/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/b69632954305e12cf4b5b8d740d40d41/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
@@ -193,6 +205,8 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jashanjotsingh/
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/27a036048ceb766173a7dea346f6d5a4/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/0971ef926290521ffb9f1e5a49df94eb/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/0971ef926290521ffb9f1e5a49df94eb/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/bfd709dc50e70f16667448e21e3db26c/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/bfd709dc50e70f16667448e21e3db26c/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/5cfb18fdf549ad6d346324f58f3a936f/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/5cfb18fdf549ad6d346324f58f3a936f/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/883d5063af520ef055094242df00c83f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
@@ -221,6 +235,34 @@ uses-permission#android.permission.INTERNET
 ADDED from /Users/jashanjotsingh/AndroidStudioProjects/flutter/android/app/src/debug/AndroidManifest.xml:6:5-66
 	android:name
 		ADDED from /Users/jashanjotsingh/AndroidStudioProjects/flutter/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
+MERGED from [:simple_image_crop] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/simple_image_crop/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
+MERGED from [:simple_image_crop] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/simple_image_crop/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-81
+MERGED from [:simple_image_crop] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/simple_image_crop/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-81
+MERGED from [:simple_image_crop] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/simple_image_crop/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-78
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-67
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [:connectivity] /Users/jashanjotsingh/AndroidStudioProjects/flutter/build/connectivity/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
 	android:name
@@ -247,20 +289,6 @@ ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/jashanjotsi
 		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/9a7956bfe12190121086bd4d5b6cbf92/jetified-play-services-auth-17.0.0/AndroidManifest.xml:36:13-107
 	android:name
 		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/9a7956bfe12190121086bd4d5b6cbf92/jetified-play-services-auth-17.0.0/AndroidManifest.xml:34:13-89
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/19b9f56a15db62ac8064e35056cc3eef/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/19b9f56a15db62ac8064e35056cc3eef/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/19b9f56a15db62ac8064e35056cc3eef/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/19b9f56a15db62ac8064e35056cc3eef/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/aa21cad4010bc6254462e12f4389d22a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
-	android:value
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/aa21cad4010bc6254462e12f4389d22a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
-	android:name
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/aa21cad4010bc6254462e12f4389d22a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
 uses-permission#android.permission.CAMERA
 ADDED from [com.journeyapps:zxing-android-embedded:4.0.2] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/4366fc1e9f2a9d506faf9be613d77836/jetified-zxing-android-embedded-4.0.2/AndroidManifest.xml:22:5-65
 	android:name
@@ -315,3 +343,17 @@ ADDED from [com.journeyapps:zxing-android-embedded:4.0.2] /Users/jashanjotsingh/
 		ADDED from [com.journeyapps:zxing-android-embedded:4.0.2] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/4366fc1e9f2a9d506faf9be613d77836/jetified-zxing-android-embedded-4.0.2/AndroidManifest.xml:52:13-54
 	android:name
 		ADDED from [com.journeyapps:zxing-android-embedded:4.0.2] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/4366fc1e9f2a9d506faf9be613d77836/jetified-zxing-android-embedded-4.0.2/AndroidManifest.xml:48:13-74
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/19b9f56a15db62ac8064e35056cc3eef/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/19b9f56a15db62ac8064e35056cc3eef/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/19b9f56a15db62ac8064e35056cc3eef/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/19b9f56a15db62ac8064e35056cc3eef/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/aa21cad4010bc6254462e12f4389d22a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/aa21cad4010bc6254462e12f4389d22a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/aa21cad4010bc6254462e12f4389d22a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58

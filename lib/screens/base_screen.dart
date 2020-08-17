@@ -4,9 +4,11 @@ import 'package:gym/blocs/base_bloc.dart';
 import 'package:gym/providers/base_bloc_provider.dart';
 import 'package:gym/screens/home_screen.dart';
 import 'package:gym/screens/members_screen.dart';
+import 'package:gym/screens/profile_screen.dart';
 import 'package:gym/screens/slot_screen.dart';
 import 'package:gym/utils/constants.dart';
 import 'member_screens/member_home_screen.dart';
+import 'member_screens/member_profile_screen.dart';
 
 class BaseScreen extends StatelessWidget {
   @override
@@ -153,7 +155,8 @@ class BaseScreenDetails extends StatelessWidget {
       StreamBuilder(
           stream: _baseBloc.isProfile,
           builder: (BuildContext context, AsyncSnapshot<bool> isProfile) {
-            return Center(child: Text('Profile'));
+            return ProfileScreen();
+            // return MemberProfileScreen() for gym member
             // if (isProfile.hasData) {
             //   if (isProfile.data) {
             //     return ProfileScreen();
