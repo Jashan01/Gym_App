@@ -26,7 +26,7 @@ class AppRoutes {
       case '/signup':
         return MaterialPageRoute(
           builder: (BuildContext context) {
-            return SignupScreen();
+            return BaseScreen();
           },
         );
         break;
@@ -40,7 +40,7 @@ class AppRoutes {
       case '/verification':
         return MaterialPageRoute(
           builder: (BuildContext context) {
-            return VerificationScreen();
+            return BaseScreen();
           },
         );
         break;

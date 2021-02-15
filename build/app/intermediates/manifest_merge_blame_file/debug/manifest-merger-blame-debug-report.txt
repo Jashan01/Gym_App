@@ -190,34 +190,35 @@
 117-->[com.google.android.gms:play-services-auth:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/9a7956bfe12190121086bd4d5b6cbf92/jetified-play-services-auth-17.0.0/AndroidManifest.xml:36:13-107
 118
 119        <activity
-119-->[com.journeyapps:zxing-android-embedded:4.0.2] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/4366fc1e9f2a9d506faf9be613d77836/jetified-zxing-android-embedded-4.0.2/AndroidManifest.xml:47:9-53:63
-120            android:name="com.journeyapps.barcodescanner.CaptureActivity"
-120-->[com.journeyapps:zxing-android-embedded:4.0.2] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/4366fc1e9f2a9d506faf9be613d77836/jetified-zxing-android-embedded-4.0.2/AndroidManifest.xml:48:13-74
-121            android:clearTaskOnLaunch="true"
-121-->[com.journeyapps:zxing-android-embedded:4.0.2] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/4366fc1e9f2a9d506faf9be613d77836/jetified-zxing-android-embedded-4.0.2/AndroidManifest.xml:49:13-45
-122            android:screenOrientation="sensorLandscape"
-122-->[com.journeyapps:zxing-android-embedded:4.0.2] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/4366fc1e9f2a9d506faf9be613d77836/jetified-zxing-android-embedded-4.0.2/AndroidManifest.xml:50:13-56
-123            android:stateNotNeeded="true"
-123-->[com.journeyapps:zxing-android-embedded:4.0.2] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/4366fc1e9f2a9d506faf9be613d77836/jetified-zxing-android-embedded-4.0.2/AndroidManifest.xml:51:13-42
-124            android:theme="@style/zxing_CaptureTheme"
-124-->[com.journeyapps:zxing-android-embedded:4.0.2] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/4366fc1e9f2a9d506faf9be613d77836/jetified-zxing-android-embedded-4.0.2/AndroidManifest.xml:52:13-54
-125            android:windowSoftInputMode="stateAlwaysHidden" />
-125-->[com.journeyapps:zxing-android-embedded:4.0.2] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/4366fc1e9f2a9d506faf9be613d77836/jetified-zxing-android-embedded-4.0.2/AndroidManifest.xml:53:13-60
-126        <activity
-126-->[com.google.android.gms:play-services-base:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/19b9f56a15db62ac8064e35056cc3eef/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
-127            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-127-->[com.google.android.gms:play-services-base:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/19b9f56a15db62ac8064e35056cc3eef/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
-128            android:exported="false"
-128-->[com.google.android.gms:play-services-base:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/19b9f56a15db62ac8064e35056cc3eef/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
-129            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-129-->[com.google.android.gms:play-services-base:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/19b9f56a15db62ac8064e35056cc3eef/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
-130
-131        <meta-data
-131-->[com.google.android.gms:play-services-basement:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/aa21cad4010bc6254462e12f4389d22a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
-132            android:name="com.google.android.gms.version"
-132-->[com.google.android.gms:play-services-basement:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/aa21cad4010bc6254462e12f4389d22a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
-133            android:value="@integer/google_play_services_version" />
-133-->[com.google.android.gms:play-services-basement:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/aa21cad4010bc6254462e12f4389d22a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
-134    </application>
-135
-136</manifest>
+119-->[com.google.android.gms:play-services-base:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/19b9f56a15db62ac8064e35056cc3eef/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+120            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+120-->[com.google.android.gms:play-services-base:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/19b9f56a15db62ac8064e35056cc3eef/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+121            android:exported="false"
+121-->[com.google.android.gms:play-services-base:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/19b9f56a15db62ac8064e35056cc3eef/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+122            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+122-->[com.google.android.gms:play-services-base:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/19b9f56a15db62ac8064e35056cc3eef/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+123
+124        <meta-data
+124-->[com.google.android.gms:play-services-basement:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/aa21cad4010bc6254462e12f4389d22a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+125            android:name="com.google.android.gms.version"
+125-->[com.google.android.gms:play-services-basement:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/aa21cad4010bc6254462e12f4389d22a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+126            android:value="@integer/google_play_services_version" />
+126-->[com.google.android.gms:play-services-basement:17.0.0] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/aa21cad4010bc6254462e12f4389d22a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+127
+128        <activity
+128-->[com.journeyapps:zxing-android-embedded:4.0.2] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/4366fc1e9f2a9d506faf9be613d77836/jetified-zxing-android-embedded-4.0.2/AndroidManifest.xml:47:9-53:63
+129            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+129-->[com.journeyapps:zxing-android-embedded:4.0.2] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/4366fc1e9f2a9d506faf9be613d77836/jetified-zxing-android-embedded-4.0.2/AndroidManifest.xml:48:13-74
+130            android:clearTaskOnLaunch="true"
+130-->[com.journeyapps:zxing-android-embedded:4.0.2] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/4366fc1e9f2a9d506faf9be613d77836/jetified-zxing-android-embedded-4.0.2/AndroidManifest.xml:49:13-45
+131            android:screenOrientation="sensorLandscape"
+131-->[com.journeyapps:zxing-android-embedded:4.0.2] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/4366fc1e9f2a9d506faf9be613d77836/jetified-zxing-android-embedded-4.0.2/AndroidManifest.xml:50:13-56
+132            android:stateNotNeeded="true"
+132-->[com.journeyapps:zxing-android-embedded:4.0.2] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/4366fc1e9f2a9d506faf9be613d77836/jetified-zxing-android-embedded-4.0.2/AndroidManifest.xml:51:13-42
+133            android:theme="@style/zxing_CaptureTheme"
+133-->[com.journeyapps:zxing-android-embedded:4.0.2] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/4366fc1e9f2a9d506faf9be613d77836/jetified-zxing-android-embedded-4.0.2/AndroidManifest.xml:52:13-54
+134            android:windowSoftInputMode="stateAlwaysHidden" />
+134-->[com.journeyapps:zxing-android-embedded:4.0.2] /Users/jashanjotsingh/.gradle/caches/transforms-2/files-2.1/4366fc1e9f2a9d506faf9be613d77836/jetified-zxing-android-embedded-4.0.2/AndroidManifest.xml:53:13-60
+135    </application>
+136
+137</manifest>

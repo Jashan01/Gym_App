@@ -34,8 +34,9 @@ dependencies:
   connectivity: ^0.4.6
   intl_phone_number_input: ^0.2.1
   sms_autofill: ^1.2.0
-  custom_navigator: 
-    git: https://github.com/ayham95/Custom-navigator
+  custom_navigator:
+    git:
+      url: https://github.com/kjawadDeveloper/Custom-navigator.git
   permission_handler: ^5.0.0+hotfix.6
   numberpicker: ^1.2.1
   qr_code_scanner: ^0.0.13
